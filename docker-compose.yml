@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  web:
+    image: plenuspyramis/proxmox-slack-bot:latest
+    restart: always
+    expose:
+      - "5000"
+
