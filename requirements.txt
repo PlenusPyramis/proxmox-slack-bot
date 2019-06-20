@@ -1,4 +1,5 @@
 fastapi>=0.29.1
 uvicorn>=0.8.1
+requests
 email-validator
 
