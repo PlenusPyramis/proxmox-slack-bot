@@ -1,2 +1,4 @@
-Flask==1.0.2
-gunicorn==19.9.0
+fastapi>=0.29.1
+uvicorn>=0.8.1
+email-validator
+
