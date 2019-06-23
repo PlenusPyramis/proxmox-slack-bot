@@ -1,0 +1,25 @@
+
+## These are fastapi packages
+## Need to list these here because fastapi is not installable via `pip install -e`
+mypy
+black
+jupyter
+better-exceptions
+pytest
+pytest-cov
+isort
+requests
+flit
+mkdocs
+mkdocs-material
+markdown-include
+autoflake
+email-validator
+ujson
+flake8
+python-multipart
+sqlalchemy
+uvicorn
+
+hypercorn
+email-validator
